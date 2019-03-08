@@ -1,0 +1,98 @@
+/* Rectangle */
+
+position: absolute;
+width: 1440px;
+height: 140px;
+left: 0px;
+top: 0px;
+
+background: #002756;
+opacity: 0.85;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 827px;
+height: 613px;
+left: 306px;
+top: 243px;
+
+background: #FFFFFF;
+border: 1px solid #B0B0B0;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Line */
+
+position: absolute;
+width: 827px;
+height: 0px;
+left: 306px;
+top: 300px;
+
+border: 1px solid #B0B0B0;
+
+
+/* CHECKMATE */
+
+position: absolute;
+width: 283px;
+height: 41px;
+left: 203px;
+top: 47px;
+
+font-family: Megrim;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 45px;
+letter-spacing: 0.06em;
+
+color: #FFFFFF;
+
+border: 0.5px solid #FFFFFF;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 827px;
+height: 57px;
+left: 306px;
+top: 243px;
+
+background: rgba(174, 183, 179, 0.9);
+border-radius: 10px 10px 0px 0px;
+
+
+/* Register */
+
+position: absolute;
+width: 112px;
+height: 35px;
+left: 324px;
+top: 256px;
+
+font-family: Abel;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+letter-spacing: 0.06em;
+
+color: #272727;
+
+
+
+/* LOGO_again */
+
+position: absolute;
+width: 101px;
+height: 83px;
+left: 93px;
+top: 38px;
+
+background: url(LOGO_again.png);
